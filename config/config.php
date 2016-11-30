@@ -8,7 +8,7 @@ Config::set('languages', ['en', 'fr']);
 // Routes . Route name => method prefix
 Config::set('routes', [
 	'default'	=> '',			//Default URI
-	'admin'		=> 'admin_',		//Default Admin URI
+	'admin'		=> 'admin',		//Default Admin URI
 ]);
 
 //Set Default Route
